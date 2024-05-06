@@ -1,6 +1,6 @@
 -  Hi, I’m @pfxziN
 -  I’m interested in development languages
--  I’m currently learning JAVA
+-  Junio Dev for Makrosystem
 -  Discord: pedrofsucks#5941
 
 <!---
