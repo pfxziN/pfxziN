@@ -1,6 +1,6 @@
 -  Hi, I’m @pfxziN
 -  I’m interested in development languages
--  Junio Dev for Makrosystem
+-  Junior Dev for Makrosystem
 -  Discord: pedrofsucks#5941
 
 <!---
